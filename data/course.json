@@ -1,0 +1,52 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Ocean Engineering",
+      "Hydrodynamics"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics"
+    ]
+  ],
+  "legacy_uid": "aecc6246-0e62-61ac-b24c-0e886e1b312a",
+  "instructors": {
+    "content": [
+      "de33f3d0-2e12-2780-c3e5-ea09be0db81c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "886bc5f7-9c54-f987-84a7-5bed241c24ef",
+    "website": "2-20-marine-hydrodynamics-13-021-spring-2005"
+  },
+  "course_title": "Marine Hydrodynamics (13.021)",
+  "hide_download": true,
+  "course_description": "In this course the fundamentals of fluid mechanics are developed in the context of naval architecture and ocean science and engineering. The various topics covered are: Transport theorem and conservation principles, Navier-Stokes' equation, dimensional analysis, ideal and potential flows, vorticity and Kelvin's theorem, hydrodynamic forces in potential flow, D'Alembert's paradox, added-mass, slender-body theory, viscous-fluid flow, laminar and turbulent boundary layers, model testing, scaling laws, application of potential theory to surface waves, energy transport, wave/body forces, linearized theory of lifting surfaces, and experimental project in the towing tank or propeller tunnel.\n\nThis subject was originally offered in Course 13 (Department of Ocean Engineering) as 13.021. In 2005, ocean engineering became part of Course 2 (Department of Mechanical Engineering), and this subject was renumbered 2.20.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.20",
+  "course_image_thumbnail": {
+    "content": "2eecb3da-eeda-4b1c-c71c-2d889e39fcf8",
+    "website": "2-20-marine-hydrodynamics-13-021-spring-2005"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Simulations",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "site_uid": "3a61bdc8-a672-4001-b41c-b69873068404",
+  "site_short_id": "2.20-spring-2005",
+  "site_url_path": "courses/2-20-marine-hydrodynamics-13-021-spring-2005",
+  "title": "Course Metadata"
+}
