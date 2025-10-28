@@ -5,8 +5,6 @@ description: This resource includes problems on transport theorm, mass flow rate
 file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/a969f508e59dcd80b65187510e860695_chal_1.pdf
 file_size: 45449
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

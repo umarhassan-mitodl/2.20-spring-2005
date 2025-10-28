@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: The recitation section contains the recitaion files.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection

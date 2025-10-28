@@ -2,8 +2,6 @@
 content_type: page
 description: The tools section contains the detailed list of the software packages
   required for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
@@ -15,9 +13,9 @@ For this course, three software packages were developed to help students underst
 
 These three software packages are:
 
-1.  P-Flow: To run P-Flow, you need to download and install the file J2SE 1.4.2 from: [J2SE Downloads](http://java.sun.com/j2se/downloads/index.html).
-2.  AMass: To run Amass, you need to download and install Java 3D from: [1.3.1 API Download](http://java.sun.com/products/java-media/3D/download.html).
-3.  Wave Partial Reflection : To run P-Flow you need to download and install the file J2SE 1.4.2 from: [J2SE Downloads](http://java.sun.com/j2se/downloads/index.html).
+1.  P-Flow: To run P-Flow, you need to download and install the file J2SE 1.4.2 from: {{% resource_link "78ae06b2-8e0b-40e4-9033-33b238398b54" "J2SE Downloads" %}}.
+2.  AMass: To run Amass, you need to download and install Java 3D from: {{% resource_link "64faa6c0-611b-482e-ad6a-dd55763fa611" "1.3.1 API Download" %}}.
+3.  Wave Partial Reflection : To run P-Flow you need to download and install the file J2SE 1.4.2 from: {{% resource_link "78ae06b2-8e0b-40e4-9033-33b238398b54" "J2SE Downloads" %}}.
 
 To run the tools in this section, first download the appropriate Java files and accept the applet. Tutorial files are provided to assist in using the tools. In addition, you can download the executable files if you would like to experiment further with the tools.
 

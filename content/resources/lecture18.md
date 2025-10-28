@@ -5,8 +5,6 @@ description: This resource includes information on reynolds stress, turbulent bo
 file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/fabd8584c83416faf99e4f566fd4bdab_lecture18.pdf
 file_size: 123439
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

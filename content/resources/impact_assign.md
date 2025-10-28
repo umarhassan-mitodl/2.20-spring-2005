@@ -5,8 +5,6 @@ description: This resource includes the experiment on estimate the added mass of
 file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/627d26ab061034919100586515ed573a_impact_assign.pdf
 file_size: 103274
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

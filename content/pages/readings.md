@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: The reading section contains the required readings for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -13,7 +11,7 @@ uid: 21164505-7e37-a289-dc77-cc11cd2f3fb0
 Texts
 -----
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262140263) Newman, J. N. [_Marine Hydrodynamics_](https://mitpress.mit.edu/9780262140263). Cambridge, MA: MIT Press, 1977. ISBN: 9780262140263.  
+{{% resource_link "2535d05b-4b62-4b3b-95d4-1fd889b95766" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Newman, J. N. {{% resource_link "2535d05b-4b62-4b3b-95d4-1fd889b95766" "_Marine Hydrodynamics_" %}}. Cambridge, MA: MIT Press, 1977. ISBN: 9780262140263.  
 (Not required - an old edition will do, however, readings are assigned.)
 
 Sabersky, R. H., A. J. Acosta, E. G. Hauptmann, and E. M. Gates. _Fluid Flow_. 4th ed. Upper Saddle River, NJ: Prentice Hall, 1998. ISBN: 9780135763728.

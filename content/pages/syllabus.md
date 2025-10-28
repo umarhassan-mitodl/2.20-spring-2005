@@ -2,8 +2,6 @@
 content_type: page
 description: The syllabus section conatins the course description, prerequisites,
   text required, grading criteria, and the syllabus of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -34,7 +32,7 @@ This course is traditionally taken by advanced undergraduate and first year grad
 Texts
 -----
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262140263) Newman, J. N. [_Marine Hydrodynamics_](https://mitpress.mit.edu/9780262140263). Cambridge, MA: MIT Press, 1977. ISBN: 9780262140263.  
+{{% resource_link "2535d05b-4b62-4b3b-95d4-1fd889b95766" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Newman, J. N. {{% resource_link "2535d05b-4b62-4b3b-95d4-1fd889b95766" "_Marine Hydrodynamics_" %}}. Cambridge, MA: MIT Press, 1977. ISBN: 9780262140263.  
 (Not required - however, readings are assigned.)
 
 Sabersky, R. H., A. J. Acosta, E. G. Hauptmann, and E. M. Gates. _Fluid Flow_. 4th ed. Upper Saddle River, NJ: Prentice Hall, 1998. ISBN: 9780135763728.
@@ -42,7 +40,7 @@ Sabersky, R. H., A. J. Acosta, E. G. Hauptmann, and E. M. Gates. _Fluid Flow_. 4
 Fluid Mechanics Films
 ---------------------
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262640121) It is strongly recommended that you view the films described in the book [_Illustrated Experiments in Fluid Mechanics_](https://mitpress.mit.edu/9780262640121). Cambridge, MA: MIT Press, 1972. ISBN: 9780262640121.
+{{% resource_link "997e2f7e-5c20-4164-b3d9-859ae09c0837" "![Buy at MIT Press](/images/mp_logo.gif)" %}} It is strongly recommended that you view the films described in the book {{% resource_link "997e2f7e-5c20-4164-b3d9-859ae09c0837" "_Illustrated Experiments in Fluid Mechanics_" %}}. Cambridge, MA: MIT Press, 1972. ISBN: 9780262640121.
 
 Grading
 -------

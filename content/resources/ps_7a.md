@@ -4,8 +4,6 @@ description: ''
 file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/e75ded6abb165a13cb6cf0678e4d264a_ps_7a.pdf
 file_size: 47245
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This resource includes information on vorticity line, tube, ring, f
 file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/06a660396c7f17cd3c8db7e868182684_recitation4.pdf
 file_size: 11849
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

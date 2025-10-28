@@ -5,8 +5,6 @@ description: This resource includes information on DA and model testing, Bucking
 file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/a5de198516a020a80cb78871eb72e062_recitation3.pdf
 file_size: 12727
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
